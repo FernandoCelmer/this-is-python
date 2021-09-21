@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="this-is",
-    version="0.0.3",
+    version="0.0.4",
     author="Fernando Celmer",
     author_email="email@fernandocelmer.com",
     description="This is Python",
@@ -17,9 +17,9 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "this"},
-    packages=setuptools.find_packages(where="this"),
+    package_dir={"": "this_is"},
+    packages=setuptools.find_packages(where="this_is"),
     python_requires=">=3.6",
     zip_safe=False,
-    py_modules=["this"]
+    py_modules=["this_is"]
 )
