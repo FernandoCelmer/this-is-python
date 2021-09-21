@@ -20,4 +20,6 @@ setuptools.setup(
     package_dir={"": "this"},
     packages=setuptools.find_packages(where="this"),
     python_requires=">=3.6",
+    zip_safe=False,
+    py_modules=["this"]
 )
