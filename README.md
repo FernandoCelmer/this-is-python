@@ -1,6 +1,16 @@
 # this-is-python
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/this-is)
+![PyPI - License](https://img.shields.io/pypi/l/this-is)
+![PyPI](https://img.shields.io/pypi/v/this-is)
 ![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/this-is-python) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
+
+## How to install?
+```python
+
+pip install this-is
+
+```
 
 ## How to use?
 
