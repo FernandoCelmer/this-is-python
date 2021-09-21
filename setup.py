@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="this-is-python-fernandocelmer",
+    name="this-is",
     version="0.0.1",
     author="Fernando Celmer",
     author_email="email@fernandocelmer.com",
@@ -17,7 +17,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "src"},
+    package_dir={"": "this"},
     packages=setuptools.find_packages(where="src"),
     python_requires=">=3.6",
 )
