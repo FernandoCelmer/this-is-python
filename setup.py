@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="this-is",
-    version="0.0.9",
+    version="0.0.10",
     author="Fernando Celmer",
     author_email="email@fernandocelmer.com",
-    description="This is Python",
+    description="This is Zen of Python by Tim Peters",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/FernandoCelmer/this-is-python",
