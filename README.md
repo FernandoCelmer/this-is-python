@@ -7,7 +7,7 @@
 ```python
 
 # first command
-from this import usa
+from this_is import usa
 
 # second command
 usa()
@@ -40,7 +40,7 @@ Namespaces are one honking great idea – let's do more of those!
 ```python
 
 # Realize importação da função no seu idioma como por ex: (br)
-from this import br
+from this_is import br
 
 # Depois é só chamar a função assim:
 br()
