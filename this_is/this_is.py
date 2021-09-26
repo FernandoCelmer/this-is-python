@@ -23,7 +23,7 @@ Namespaces are one honking great idea – let's do more of those!"""
     print(msg)
 
 
-def br():
+def pt_BR():
     msg = """The Zen of Python, by Tim Peters
 
 Bonito é melhor que feio.
