@@ -46,3 +46,27 @@ Se a implementação é difícil de explicar, é uma má ideia
 Se a implementação é fácil de explicar, pode ser uma boa ideia
 Namespaces são uma grande ideia — vamos ter mais dessas!"""
     print(msg)
+
+def es():
+    msg = """The Zen of Python, by Tim Peters
+
+Lo bello es mejor que lo feo.
+Explícito es mejor que implícito.
+Mejor es simple que complejo.
+Complejo es mejor que complicado.
+Lineal es mejor que anidado.
+Es mejor escaso que denso.
+La legibilidad cuenta.
+Los casos especiales no son lo suficientemente especiales como para romper las reglas.
+Aunque la practicidad triunfa sobre la pureza.
+Los errores nunca deben pasar silenciosamente.
+A menos que estén explícitamente silenciados.
+Ante la ambigüedad, rechace la tentación de adivinar.
+Debe haber una, y preferiblemente solo una, forma obvia de hacer algo.
+Aunque este modo puede no ser obvio al principio a menos que seas holandés.
+Ahora está mejor que nunca.
+Aunque normalmente nunca es mejor que * exactamente * ahora
+Si la implementación es difícil de explicar, es una mala idea.
+Si la implementación es fácil de explicar, podría ser una buena idea.
+Los espacios de nombres son una gran idea, ¡tengamos más de estos!"""
+    print(msg)
