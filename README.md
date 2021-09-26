@@ -48,35 +48,25 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea – let's do more of those!
 ```
 
-## Como usar?
+<!-- CONTRIBUTING -->
+## Contributing
 
-```python
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-# Realize importação da função no seu idioma como por ex: (br)
-from this_is import pt_BR
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-# Depois é só chamar a função assim:
-pt_BR()
+<!-- LICENSE -->
+## License
 
-The Zen of Python, by Tim Peters
+Distributed under the MIT License. See `LICENSE` for more information.
 
-Bonito é melhor que feio.
-Explícito é melhor que implícito.
-Simples é melhor que complexo.
-Complexo é melhor que complicado.
-Linear é melhor do que aninhado.
-Esparso é melhor que denso.
-Legibilidade conta.
-Casos especiais não são especiais o bastante para quebrar as regras.
-Ainda que praticidade vença a pureza.
-Erros nunca devem passar silenciosamente. 
-A menos que sejam explicitamente silenciados.
-Diante da ambiguidade, recuse a tentação de adivinhar.
-Dever haver um — e preferencialmente apenas um — modo óbvio para fazer algo.
-Embora esse modo possa não ser óbvio a princípio a menos que você seja holandês.
-Agora é melhor que nunca.
-Apesar de que nunca normalmente é melhor do que *exatamente* agora
-Se a implementação é difícil de explicar, é uma má ideia
-Se a implementação é fácil de explicar, pode ser uma boa ideia
-Namespaces são uma grande ideia — vamos ter mais dessas!
-```
+<!-- CONTACT -->
+## Contact
+
+Fernando Celmer- email@fernandocelmer.com
+
+Project Link: [https://github.com/fernandocelmer/this-is-python](https://github.com/fernandocelmer/this-is-python)
