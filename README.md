@@ -47,6 +47,10 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea – let's do more of those!
 ```
+## Languages
+- pt-BR - Português (Brasileiro)
+- en-US - Inglês
+- es - Espanhol
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -70,8 +74,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Fernando Celmer- email@fernandocelmer.com
 
 Project Link: [https://github.com/fernandocelmer/this-is-python](https://github.com/fernandocelmer/this-is-python)
-
-## Languages
-- pt-BR - Português (Brasileiro)
-- en-US - Inglês
-- es - Espanhol
