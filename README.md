@@ -70,3 +70,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Fernando Celmer- email@fernandocelmer.com
 
 Project Link: [https://github.com/fernandocelmer/this-is-python](https://github.com/fernandocelmer/this-is-python)
+
+## Languages
+- pt-BR - Português (Brasileiro)
+- en-US - Inglês
+- es - Espanhol
