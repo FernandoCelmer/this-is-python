@@ -20,10 +20,10 @@ pip install this-is
 ```python
 
 # first command
-from this_is import usa
+from this_is import en_US
 
 # second command
-usa()
+en_US()
 
 The Zen of Python, by Tim Peters
 
@@ -53,10 +53,10 @@ Namespaces are one honking great idea – let's do more of those!
 ```python
 
 # Realize importação da função no seu idioma como por ex: (br)
-from this_is import br
+from this_is import pt_BR
 
 # Depois é só chamar a função assim:
-br()
+pt_BR()
 
 The Zen of Python, by Tim Peters
 
