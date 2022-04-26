@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/this-is-python) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/FernandoCelmer/this-is-python/master/docs/install.gif">
+<img src="docs/install.gif">
 
 ## How to install?
 ```python
@@ -20,10 +20,10 @@ pip install this-is
 ```python
 
 # first command
-from this_is import en_US
+from this_is import en_us
 
 # second command
-en_US()
+en_us()
 
 The Zen of Python, by Tim Peters
 
@@ -48,9 +48,9 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea – let's do more of those!
 ```
 ## Languages
-- pt-BR - Português (Brasileiro)
-- en-US - Inglês
-- es - Espanhol
+- pt-BR - Portuguese
+- en-US - English
+- es - Spanish
 
 <!-- CONTRIBUTING -->
 ## Contributing
