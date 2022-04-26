@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/this-is-python) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
 <br>
 <br>
-<img src="docs/install.gif">
+<img src="https://raw.githubusercontent.com/FernandoCelmer/this-is-python/master/docs/install.gif">
 
 ## How to install?
 ```python
