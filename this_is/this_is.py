@@ -1,4 +1,4 @@
-def en_US():
+def en_us():
     msg = """The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
@@ -23,7 +23,7 @@ Namespaces are one honking great idea – let's do more of those!"""
     print(msg)
 
 
-def pt_BR():
+def pt_br():
     msg = """The Zen of Python, by Tim Peters
 
 Bonito é melhor que feio.
