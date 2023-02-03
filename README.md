@@ -51,6 +51,7 @@ Namespaces are one honking great idea – let's do more of those!
 - pt-BR - Portuguese
 - en-US - English
 - es - Spanish
+- fr - French
 
 <!-- CONTRIBUTING -->
 ## Contributing
