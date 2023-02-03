@@ -78,12 +78,13 @@ def fr():
     https://perso.limsi.fr/pointal/_media/python:cours:courspython3.pdf"""
     msg = """The Zen of Python, by Tim Peters
 
-la beauté à la laideur,
-l'explicite à l'implicite,
-le simple au complexe
-et le complexe au compliqué,
-le déroulé à l'imbriqué,
-l'aéré au compact.
+Préfère :
+      la beauté à la laideur,
+      l'explicite à l'implicite,
+      le simple au complexe
+      et le complexe au compliqué,
+      le déroulé à l'imbriqué,
+      l'aéré au compact.
 Prends en compte la lisibilité.
 Les cas particuliers ne le sont jamais assez pour violer les règles.
 Mais, à la pureté, privilégie l'aspect pratique.
@@ -96,5 +97,5 @@ Mieux vaut maintenant que jamais.
 Cependant jamais est souvent mieux qu'immédiatement.
 Si l'implémentation s'explique difficilement, c'est une mauvaise idée.
 Si l'implémentation s'explique aisément, c'est peut-être une bonne idée.
-Les espaces de nommage! Sacrée bonne idée! Faisons plus de trucs comme ça."""
+Les espaces de nommage ! Sacrée bonne idée ! Faisons plus de trucs comme ça. """
     print(msg)
