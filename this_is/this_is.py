@@ -13,13 +13,13 @@ Although practicality beats purity.
 Errors should never pass silently.
 Unless explicitly silenced.
 In the face of ambiguity, refuse the temptation to guess.
-There should be one– and preferably only one –obvious way to do it.
+There should be one and preferably only one obvious way to do it.
 Although that way may not be obvious at first unless you're Dutch.
 Now is better than never.
-Although never is often better than right now.
+Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let's do more of those!"""
+Namespaces are one honking great idea let's do more of those!"""
     print(msg)
 
 
@@ -35,7 +35,7 @@ Esparso é melhor que denso.
 Legibilidade conta.
 Casos especiais não são especiais o bastante para quebrar as regras.
 Ainda que praticidade vença a pureza.
-Erros nunca devem passar silenciosamente. 
+Erros nunca devem passar silenciosamente.
 A menos que sejam explicitamente silenciados.
 Diante da ambiguidade, recuse a tentação de adivinhar.
 Dever haver um — e preferencialmente apenas um — modo óbvio para fazer algo.
@@ -46,6 +46,7 @@ Se a implementação é difícil de explicar, é uma má ideia
 Se a implementação é fácil de explicar, pode ser uma boa ideia
 Namespaces são uma grande ideia — vamos ter mais dessas!"""
     print(msg)
+
 
 def es():
     msg = """The Zen of Python, by Tim Peters
@@ -71,18 +72,18 @@ Si la implementación es fácil de explicar, podría ser una buena idea.
 Los espacios de nombres son una gran idea, ¡tengamos más de estos!"""
     print(msg)
 
+
 def fr():
     """Traduction de Cécile Trevian, sous licence CC BY-NC-SA dans document
     https://perso.limsi.fr/pointal/_media/python:cours:courspython3.pdf"""
     msg = """The Zen of Python, by Tim Peters
 
-Préfère :
-      la beauté à la laideur,
-      l'explicite à l'implicite,
-      le simple au complexe
-      et le complexe au compliqué,
-      le déroulé à l'imbriqué,
-      l'aéré au compact.
+la beauté à la laideur,
+l'explicite à l'implicite,
+le simple au complexe
+et le complexe au compliqué,
+le déroulé à l'imbriqué,
+l'aéré au compact.
 Prends en compte la lisibilité.
 Les cas particuliers ne le sont jamais assez pour violer les règles.
 Mais, à la pureté, privilégie l'aspect pratique.
@@ -95,5 +96,5 @@ Mieux vaut maintenant que jamais.
 Cependant jamais est souvent mieux qu'immédiatement.
 Si l'implémentation s'explique difficilement, c'est une mauvaise idée.
 Si l'implémentation s'explique aisément, c'est peut-être une bonne idée.
-Les espaces de nommage ! Sacrée bonne idée ! Faisons plus de trucs comme ça. """
+Les espaces de nommage! Sacrée bonne idée! Faisons plus de trucs comme ça."""
     print(msg)
