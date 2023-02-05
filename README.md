@@ -8,6 +8,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/FernandoCelmer/this-is-python?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?style=flat-square)
 
+---
 
 <img src="https://raw.githubusercontent.com/FernandoCelmer/this-is-python/master/docs/install.gif">
 
