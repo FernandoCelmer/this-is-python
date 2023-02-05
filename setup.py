@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="this-is",
-    version="1.0.3-dev.1",
+    version="1.0.3-dev.2",
     author="Fernando Celmer",
     author_email="email@fernandocelmer.com",
     description="This is Zen of Python by Tim Peters",
