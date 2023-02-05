@@ -1,11 +1,14 @@
 # this-is-python
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/this-is)
-![PyPI - License](https://img.shields.io/pypi/l/this-is)
-![PyPI](https://img.shields.io/pypi/v/this-is)
-![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/this-is-python) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
-<br>
-<br>
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/this-is?style=flat-square)
+![PyPI - License](https://img.shields.io/pypi/l/this-is?style=flat-square)
+![PyPI](https://img.shields.io/pypi/v/this-is?style=flat-square)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/this-is?style=flat-square)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FernandoCelmer/this-is-python/master?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/FernandoCelmer/this-is-python?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?style=flat-square)
+
+
 <img src="https://raw.githubusercontent.com/FernandoCelmer/this-is-python/master/docs/install.gif">
 
 ## How to install?
@@ -17,13 +20,12 @@ pip install this-is
 
 ## How to use?
 
-```python
+```
+# First command
+>>> from this_is import en_us
 
-# first command
-from this_is import en_us
-
-# second command
-en_us()
+# Second command
+>>> en_us()
 
 The Zen of Python, by Tim Peters
 
@@ -47,6 +49,7 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea – let's do more of those!
 ```
+
 ## Languages
 - pt-BR - Portuguese
 - en-US - English
