@@ -38,13 +38,13 @@ Ainda que praticidade vença a pureza.
 Erros nunca devem passar silenciosamente.
 A menos que sejam explicitamente silenciados.
 Diante da ambiguidade, recuse a tentação de adivinhar.
-Dever haver um — e preferencialmente apenas um — modo óbvio para fazer algo.
+Dever haver um e preferencialmente apenas um modo óbvio para fazer algo.
 Embora esse modo possa não ser óbvio a princípio a menos que você seja holandês.
 Agora é melhor que nunca.
 Apesar de que nunca normalmente é melhor do que *exatamente* agora
 Se a implementação é difícil de explicar, é uma má ideia
 Se a implementação é fácil de explicar, pode ser uma boa ideia
-Namespaces são uma grande ideia — vamos ter mais dessas!"""
+Namespaces são uma grande ideia, vamos ter mais dessas!"""
     print(msg)
 
 
@@ -66,7 +66,7 @@ Ante la ambigüedad, rechace la tentación de adivinar.
 Debe haber una, y preferiblemente solo una, forma obvia de hacer algo.
 Aunque este modo puede no ser obvio al principio a menos que seas holandés.
 Ahora está mejor que nunca.
-Aunque normalmente nunca es mejor que * exactamente * ahora
+Aunque normalmente nunca es mejor que *exactamente* ahora
 Si la implementación es difícil de explicar, es una mala idea.
 Si la implementación es fácil de explicar, podría ser una buena idea.
 Los espacios de nombres son una gran idea, ¡tengamos más de estos!"""
