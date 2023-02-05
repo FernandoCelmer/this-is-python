@@ -1,11 +1,13 @@
-import setuptools
+from setuptools import setup
+
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-setuptools.setup(
+
+setup(
     name="this-is",
-    version="1.0.2",
+    version="1.0.3-dev.1",
     author="Fernando Celmer",
     author_email="email@fernandocelmer.com",
     description="This is Zen of Python by Tim Peters",
@@ -18,7 +20,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     package_dir={"": "this_is"},
-    packages=setuptools.find_packages(where="this_is"),
     python_requires=">=3.6",
     zip_safe=False,
     py_modules=["this_is"]
